@@ -1,0 +1,11 @@
+# node_modulesディレクトリを無視
+node_modules/
+
+# buildディレクトリを無視
+build/
+
+# .DS_Storeファイルを無視 (macOSで使われる)
+.DS_Store
+
+# .nextディレクトリを無視
+.next/
